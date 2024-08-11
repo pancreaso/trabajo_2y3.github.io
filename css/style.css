@@ -1,0 +1,39 @@
+/*
+color-primario: #red;
+color-secundario: #whitesmoke;
+color-terciario: #black;
+color-cuarto: #aqua;
+*/
+
+
+
+h1{
+    background-color: red;
+    color: whitesmoke;
+    font-family: fantasy;
+}
+p{
+    color: red;
+    background-color: aqua;
+    font-family: fantasy;
+    font-size: medium;
+
+}
+body{
+    background-color: aqua;
+}
+form{
+    color: red;
+    font-size: large;
+    font-family: fantasy;
+}
+ul{
+    color: red;
+    font-size: medium;
+    font-family: fantasy;
+}
+.about-us{
+    font-size: larger;
+    font: weight 100px;
+    background-color: whitesmoke;
+}
